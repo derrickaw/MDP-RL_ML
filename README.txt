@@ -1,6 +1,5 @@
 CS4641 - HW4 - MDP and Reinforcement Learning
 By: Derrick Williams
-Date: 2016-04-24
 
 Data package:
 BURLAP was used to implement this project.  "The Brown-UMBC Reinforcement Learning and Planning (BURLAP) java code library is for the use and development of single or multi-agent planning and learning algorithms and domains to accompany them." - James MacGlashan
